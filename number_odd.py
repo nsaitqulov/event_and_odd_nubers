@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of odd digits in it.
-var_int=5554
+var_int=4545
 
 a=var_int%10
 var_int//=10
